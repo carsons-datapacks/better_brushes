@@ -1,0 +1,26 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/brush"
+  },
+  "overrides": [
+    { "predicate": { "custom_model_data": 10 }, "model": "better_brushes:item/red_brush" },
+    { "predicate": { "custom_model_data": 11 }, "model": "better_brushes:item/orange_brush" },
+    { "predicate": { "custom_model_data": 12 }, "model": "better_brushes:item/yellow_brush" },
+    { "predicate": { "custom_model_data": 13 }, "model": "better_brushes:item/lime_brush" },
+    { "predicate": { "custom_model_data": 14 }, "model": "better_brushes:item/green_brush" },
+    { "predicate": { "custom_model_data": 15 }, "model": "better_brushes:item/light_blue_brush" },
+    { "predicate": { "custom_model_data": 16 }, "model": "better_brushes:item/cyan_brush" },
+    { "predicate": { "custom_model_data": 17 }, "model": "better_brushes:item/blue_brush" },
+    { "predicate": { "custom_model_data": 18 }, "model": "better_brushes:item/purple_brush" },
+    { "predicate": { "custom_model_data": 19 }, "model": "better_brushes:item/magenta_brush" },
+    { "predicate": { "custom_model_data": 20 }, "model": "better_brushes:item/pink_brush" },
+    { "predicate": { "custom_model_data": 21 }, "model": "better_brushes:item/brown_brush" },
+    { "predicate": { "custom_model_data": 22 }, "model": "better_brushes:item/white_brush" },
+    { "predicate": { "custom_model_data": 23 }, "model": "better_brushes:item/light_gray_brush" },
+    { "predicate": { "custom_model_data": 24 }, "model": "better_brushes:item/gray_brush" },
+    { "predicate": { "custom_model_data": 25 }, "model": "better_brushes:item/black_brush" },
+    
+    { "predicate": { "custom_model_data": 26 }, "model": "better_brushes:item/wet_brush" }
+  ]
+}
